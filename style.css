@@ -35,6 +35,12 @@ main > section button {
     font-weight: 500;
     letter-spacing: -0.2px;
     line-height: 20px;
-    text-transform: uppercase;
     padding: 9px 21px;
+    text-transform: uppercase;    
+}
+
+#detalhes-container {
+    font-weight: bold;
+    list-style-type: none;
+   
 }
