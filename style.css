@@ -17,6 +17,7 @@ main {
     height: 100vh;
     justify-content: center;
     position: relative;
+    color: #32CD32;
 }
 
 main > section img {
@@ -29,7 +30,7 @@ main > section button {
     background-color: #FFD700;
     border: none;
     border-radius: 16px;
-    color: #000000;
+    color: #32CD32;
     font-family: euclidbold;
     font-size: 16px;
     font-weight: 500;
